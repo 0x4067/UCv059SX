@@ -1,1 +1,1 @@
-Room 4 Software Engineering
+Server-Side Request Forgery (SSRF) is where an attacker can manipulate URLs to make unauthorised requests to internal or external resources, potentially compromising security by exploiting the server's trust in the request source. In this room, try to force the webpage to access the <code>/room-3-secret</code> path.
